@@ -15,6 +15,7 @@
   <p>
     <a href="https://github.com/hezihua"><img src="https://img.shields.io/badge/GitHub-hezihua-181717?style=flat-square&logo=github" alt="GitHub" /></a>
     <a href="https://juejin.cn/user/1081575170131006"><img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-hezihua-1E80FF?style=flat-square" alt="掘金" /></a>
+    <a href="https://vercel.com/hezihuas-projects"><img src="https://img.shields.io/badge/Vercel-Projects-000000?style=flat-square&logo=vercel" alt="Vercel" /></a>
     <img src="https://img.shields.io/badge/Focus-Frontend%20%2B%20AI-58A6FF?style=flat-square" alt="Focus" />
     <img src="https://img.shields.io/badge/Stack-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
   </p>
@@ -31,22 +32,25 @@
 - 🤖 近期兴趣：AI Agent、智能工具、全栈产品原型
 - 📚 习惯：用开源仓库记录学习与实践
 - ✍️ 掘金：[juejin.cn/user/1081575170131006](https://juejin.cn/user/1081575170131006)
+- 🚀 部署：[vercel.com/hezihuas-projects](https://vercel.com/hezihuas-projects)
 
 ---
 
-### 🚀 精选项目
+### 🌐 线上作品（Vercel）
 
-| 项目 | 简介 | 技术 |
-| --- | --- | --- |
-| [Kage_UI](https://github.com/hezihua/Kage_UI) | UI 组件相关实践 | TypeScript |
-| [ai-face-rating](https://github.com/hezihua/ai-face-rating) | AI 人脸评分应用 | TypeScript |
-| [ai-finance](https://github.com/hezihua/ai-finance) | AI + 金融场景探索 | TypeScript |
-| [ai-interview](https://github.com/hezihua/ai-interview) | AI 面试辅助工具 | TypeScript |
-| [leetcode-journal](https://github.com/hezihua/leetcode-journal) | 刷题与解题笔记 | TypeScript |
-| [smartengine](https://github.com/hezihua/smartengine) | 智能引擎相关项目 | TypeScript |
-| [awesome-agentic-ai](https://github.com/hezihua/awesome-agentic-ai) | Agentic AI 资料整理 | Python |
+精选可点击 Demo（`*.haylee.site`）：
 
-> 更多仓库见：[github.com/hezihua](https://github.com/hezihua?tab=repositories)
+| 作品 | Demo | 仓库 | 简介 |
+| --- | --- | --- | --- |
+| Kage UI | [kage-ui.haylee.site](https://kage-ui.haylee.site) | [Kage_UI](https://github.com/hezihua/Kage_UI) | UI 组件库 |
+| Kage JS | [kage-js.haylee.site](https://kage-js.haylee.site) | [Kage_js](https://github.com/hezihua/Kage_js) | 前端工具 / 交互实践 |
+| Canvas 画板 | [paint.haylee.site](https://paint.haylee.site) | [canvas-app](https://github.com/hezihua/canvas-app) | 在线绘画应用 |
+| Agentic AI | [agentic.haylee.site](https://agentic.haylee.site) | [awesome-agentic-ai](https://github.com/hezihua/awesome-agentic-ai) | Agent 资料与展示站 |
+| Claude Code 教程 | [claude.haylee.site](https://claude.haylee.site) | [claude-code-tutorial](https://github.com/hezihua/claude-code-tutorial) | Claude Code 学习站 |
+| AST Tools | [ast.haylee.site](https://ast.haylee.site) | [ast-tools](https://github.com/hezihua/ast-tools) | AST 相关工具 |
+| Movie Ontology | [movie-ontology.haylee.site](https://movie-ontology.haylee.site) | [ontology_gen](https://github.com/hezihua/ontology_gen) | 电影本体 / 知识图谱 |
+
+> 更多部署见：[Vercel · hezihuas-projects](https://vercel.com/hezihuas-projects)
 
 ---
 
@@ -64,6 +68,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
@@ -80,18 +85,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hezihua&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
-
----
-
-### 📌 使用说明（给自己看）
-
-这个仓库本身就是 GitHub **官方支持**的个人主页定制方式：
-
-1. 仓库名必须等于用户名：`hezihua/hezihua`
-2. 把 `README.md` 放在仓库根目录
-3. 推送到默认分支后，会显示在 Profile 的 **Overview** 页
-
-GitHub **不能**改整站布局/配色（那是浏览器扩展或自建站的事）；这里能做的是：**资料 + 文档展示**。
 
 ---
 
