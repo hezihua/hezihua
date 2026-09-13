@@ -14,6 +14,7 @@
 
   <p>
     <a href="https://github.com/hezihua"><img src="https://img.shields.io/badge/GitHub-hezihua-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+    <a href="https://juejin.cn/user/1081575170131006"><img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-hezihua-1E80FF?style=flat-square" alt="掘金" /></a>
     <img src="https://img.shields.io/badge/Focus-Frontend%20%2B%20AI-58A6FF?style=flat-square" alt="Focus" />
     <img src="https://img.shields.io/badge/Stack-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
   </p>
@@ -29,6 +30,7 @@
 - 🛠️ 主力技术：TypeScript / JavaScript / React / Next.js / Vue
 - 🤖 近期兴趣：AI Agent、智能工具、全栈产品原型
 - 📚 习惯：用开源仓库记录学习与实践
+- ✍️ 掘金：[juejin.cn/user/1081575170131006](https://juejin.cn/user/1081575170131006)
 
 ---
 
