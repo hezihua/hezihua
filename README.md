@@ -15,7 +15,6 @@
   <p>
     <a href="https://github.com/hezihua"><img src="https://img.shields.io/badge/GitHub-hezihua-181717?style=flat-square&logo=github" alt="GitHub" /></a>
     <a href="https://juejin.cn/user/1081575170131006"><img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-hezihua-1E80FF?style=flat-square" alt="掘金" /></a>
-    <a href="https://vercel.com/hezihuas-projects"><img src="https://img.shields.io/badge/Vercel-Projects-000000?style=flat-square&logo=vercel" alt="Vercel" /></a>
     <img src="https://img.shields.io/badge/Focus-Frontend%20%2B%20AI-58A6FF?style=flat-square" alt="Focus" />
     <img src="https://img.shields.io/badge/Stack-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
   </p>
@@ -32,7 +31,6 @@
 - 🤖 近期兴趣：AI Agent、智能工具、全栈产品原型
 - 📚 习惯：用开源仓库记录学习与实践
 - ✍️ 掘金：[juejin.cn/user/1081575170131006](https://juejin.cn/user/1081575170131006)
-- 🚀 部署：[vercel.com/hezihuas-projects](https://vercel.com/hezihuas-projects)
 
 ---
 
@@ -49,8 +47,6 @@
 | Claude Code 教程 | [claude.haylee.site](https://claude.haylee.site) | [claude-code-tutorial](https://github.com/hezihua/claude-code-tutorial) | Claude Code 学习站 |
 | AST Tools | [ast.haylee.site](https://ast.haylee.site) | [ast-tools](https://github.com/hezihua/ast-tools) | AST 相关工具 |
 | Movie Ontology | [movie-ontology.haylee.site](https://movie-ontology.haylee.site) | [ontology_gen](https://github.com/hezihua/ontology_gen) | 电影本体 / 知识图谱 |
-
-> 更多部署见：[Vercel · hezihuas-projects](https://vercel.com/hezihuas-projects)
 
 ---
 
@@ -70,21 +66,6 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
----
-
-### 📊 GitHub 数据
-
-<div align="center">
-
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hezihua&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hezihua&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hezihua&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
 
 ---
 
