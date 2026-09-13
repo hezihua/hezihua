@@ -70,8 +70,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white)
-![Harness](https://img.shields.io/badge/Harness-000000?style=for-the-badge&logoColor=white)
+![DeepSeek Harness](https://img.shields.io/badge/DeepSeek%20Harness-4D6BFE?style=for-the-badge&logoColor=white)
 ![PI Agent](https://img.shields.io/badge/PI%20Agent-0F766E?style=for-the-badge&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
